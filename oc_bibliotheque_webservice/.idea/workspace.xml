@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6d05d2fb-cf1d-46a9-aab4-e13d45f26c58" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-business/output/bibliotheque-business-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-business/output/classes/org/webservice/services/LivreService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-business/output/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-business/output/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-business/output/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-consumer/output/bibliotheque-consumer-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-consumer/output/classes/org/webservice/repository/LivreRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-consumer/output/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-consumer/output/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-consumer/output/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-model/output/bibliotheque-model-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-model/output/classes/org/webservice/model/Livre.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-model/output/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-model/output/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-model/output/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice.war.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/classes/org/webservice/BibliothequeApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/classes/org/webservice/serviceweb/LivreWebService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/HikariCP-3.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/aspectjweaver-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/bibliotheque-business-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/bibliotheque-consumer-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/bibliotheque-model-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/byte-buddy-1.9.12.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/classmate-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/commons-io-2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/hibernate-commons-annotations-5.0.4.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/hibernate-core-5.3.9.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/hibernate-validator-6.0.16.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-datatype-jdk8-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-datatype-jsr310-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jackson-module-parameter-names-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javassist-3.23.1-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javax.annotation-api-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javax.transaction-api-1.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/javax.xml.soap-api-1.4.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jaxws-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/jul-to-slf4j-1.7.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/log4j-api-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/log4j-to-slf4j-2.11.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/lombok-1.18.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/mimepull-1.9.11.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/postgresql-42.2.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/saaj-impl-1.5.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/slf4j-api-1.7.26.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/snakeyaml-1.23.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-aop-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-aspects-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-beans-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-autoconfigure-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-aop-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-data-jpa-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-jdbc-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-json-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-logging-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-tomcat-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-web-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-boot-starter-web-services-2.1.4.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-context-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-core-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-data-commons-2.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-data-jpa-2.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-expression-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-jcl-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-jdbc-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-orm-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-oxm-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-tx-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-web-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-webmvc-5.1.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-ws-core-3.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/spring-xml-3.0.7.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/tomcat-embed-core-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/tomcat-embed-el-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/tomcat-embed-websocket-9.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/validation-api-2.0.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/bibliotheque-webservice/WEB-INF/lib/wsdl4j-1.6.3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/classes/org/webservice/BibliothequeApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/classes/org/webservice/serviceweb/LivreWebService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bibliotheque-webservice/output/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-webservice/target/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-model/target/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-business/target/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-business/output/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-model/output/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-consumer/output/" />
+    <ignored path="$PROJECT_DIR$/bibliotheque-webservice/output/" />
+    <ignored path="$PROJECT_DIR$/output/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-model/pom.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-business/pom.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/consumer/LivreService.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-business/src/main/java/org/webservice/LivreService.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/repository/LivreDao.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-model/src/main/java/org/webservice/model/Livre.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/repository/LivreRepositoryImpl.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/java/org/webservice/config/BibliothequeApplication.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/pom.xml" />
+        <option value="$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/repository/LivreRepository.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-business/src/main/java/org/webservice/services/LivreService.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/java/org/webservice/BibliothequeApplication.java" />
+        <option value="$PROJECT_DIR$/bibliotheque-webservice/src/main/java/org/webservice/serviceweb/LivreWebService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bibliotheque" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="bibliotheque" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-business" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-business" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repository" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-model" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="serviceweb" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="oc_bibliotheque_webservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="oc_bibliotheque_webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="bibliotheque-webservice" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556295719580" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.35977012" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.webservice.model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="BibliothequeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bibliotheque-webservice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.webservice.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.webservice.BibliothequeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BibliothequeApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6d05d2fb-cf1d-46a9-aab4-e13d45f26c58" name="Default Changelist" comment="" />
+      <created>1556290315607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556290315607</updated>
+      <workItem from="1556290317916" duration="5511000" />
+      <workItem from="1556348716276" duration="2021000" />
+      <workItem from="1556354382036" duration="3448000" />
+      <workItem from="1556357967150" duration="33000" />
+      <workItem from="1556361166683" duration="161000" />
+      <workItem from="1556361361014" duration="1104000" />
+      <workItem from="1556362569432" duration="608000" />
+      <workItem from="1556365322786" duration="3649000" />
+      <workItem from="1556371152760" duration="353000" />
+      <workItem from="1556371525934" duration="8227000" />
+      <workItem from="1556381551293" duration="3603000" />
+      <workItem from="1556518057427" duration="14145000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="42863000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Learn" order="8" />
+      <window_info anchor="bottom" id="Spring" order="0" weight="0.32936078" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.4978678" weight="0.29469123" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.3163597" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" weight="0.32827735" />
+      <window_info active="true" anchor="bottom" id="Application Servers" order="8" sideWeight="0.49840087" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.4989339" weight="0.32827735" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989339" weight="0.32827735" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" sideWeight="0.49946696" weight="0.32827735" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.5021322" side_tool="true" weight="0.29609543" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="right" id="Bean Validation" order="0" weight="0.12793177" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.16364606" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" weight="0.32995737" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.15405117" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.14285715" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/src/main/webapp/WEB-INF/web.xml" />
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/output/classes/application.properties" />
+    <entry file="file://$PROJECT_DIR$/oc_bibliotheque_webservice.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-dependencies/2.1.4.RELEASE/spring-boot-dependencies-2.1.4.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="2537" selection-start-line="2537" selection-end-line="2537" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE.jar!/org/springframework/aop/framework/CglibAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="484" column="22" selection-start-line="484" selection-start-column="22" selection-end-line="484" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.1.6.RELEASE/spring-beans-5.1.6.RELEASE.jar!/org/springframework/beans/factory/support/DefaultListableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="179" selection-start-line="179" selection-end-line="179" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/5.1.6.RELEASE/spring-context-5.1.6.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="618" selection-start-line="618" selection-end-line="618" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-aop/5.1.6.RELEASE/spring-aop-5.1.6.RELEASE.jar!/org/springframework/aop/framework/JdkDynamicAopProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="132" selection-start-line="132" selection-end-line="132" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/repository/LivreRepositoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="46" selection-start-line="2" selection-start-column="46" selection-end-line="2" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="84" column="21" selection-start-line="84" selection-start-column="21" selection-end-line="84" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-model/bibliotheque-model.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-model/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-business/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="46" column="50" selection-start-line="46" selection-start-column="50" selection-end-line="46" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/src/main/java/org/webservice/serviceweb/LivreWebService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-business/src/main/java/org/webservice/services/LivreService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-model/src/main/java/org/webservice/model/Livre.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-consumer/src/main/java/org/webservice/repository/LivreRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bibliotheque-webservice/src/main/java/org/webservice/BibliothequeApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>bibliotheque-webservice:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35977012" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (bibliotheque-model)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35977012" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>oc_bibliotheque_webservice</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35977012" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.35977012" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="oc_bibliotheque_webservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="bibliotheque-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="oc_bibliotheque_webservice:war exploded" />
+    </root>
+  </artifact>
+</component>

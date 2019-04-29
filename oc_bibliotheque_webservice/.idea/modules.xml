@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bibliotheque-business/bibliotheque-business.iml" filepath="$PROJECT_DIR$/bibliotheque-business/bibliotheque-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bibliotheque-consumer/bibliotheque-consumer.iml" filepath="$PROJECT_DIR$/bibliotheque-consumer/bibliotheque-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bibliotheque-model/bibliotheque-model.iml" filepath="$PROJECT_DIR$/bibliotheque-model/bibliotheque-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bibliotheque-webservice/bibliotheque-webservice.iml" filepath="$PROJECT_DIR$/bibliotheque-webservice/bibliotheque-webservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oc_bibliotheque_webservice.iml" filepath="$PROJECT_DIR$/oc_bibliotheque_webservice.iml" />
+    </modules>
+  </component>
+</project>
